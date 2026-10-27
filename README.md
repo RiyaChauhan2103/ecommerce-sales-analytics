@@ -191,18 +191,4 @@ See [docs/business_metrics.md](docs/business_metrics.md) for all metric definiti
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 🙋 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-
----
-
-> Built with ❤️ for data-driven e-commerce decision making.
